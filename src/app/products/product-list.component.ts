@@ -3,7 +3,6 @@ import { IProduct } from './products.interface';
 import { ProductService } from './product.service';
 
 @Component({
-  selector: 'apm-products',
   templateUrl: './product-list.component.html',
   styleUrls: ['./product-list.component.css'],
 })
